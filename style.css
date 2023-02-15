@@ -1,0 +1,13 @@
+/* 
+    * = en CSS se le conoce como "Selector Universal"
+    , todo lo que se escriba en el bloque se le aplicará 
+    a todos los elementos que esten en nutro body
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
